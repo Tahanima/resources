@@ -1,6 +1,7 @@
 ## Contents
 * [Command Line](#command-line)
 * [Opportunities](#opportunities)
+* [Remote Freelance Boards](#remote-freelance-boards)
 * [Remote Jobs](#remote-jobs)
 
 ### Command Line
@@ -11,5 +12,14 @@
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
 
+### Remote Freelance Boards
+- [Toptal](https://www.toptal.com/#bring-in-incredible-hackers-now)
+- [Braintrust](https://www.usebraintrust.com/join-engineer?utm_source=talent&utm_medium=community&utm_campaign=dc_ref)
+
 ### Remote Jobs
 - [Women Who Code jobs board](https://www.womenwhocode.com/jobs/)
+- [Remote | OK](http://remoteok.io/)
+- [We Work Remotely](http://weworkremotely.com/)
+- [SkipTheDrive](http://www.skipthedrive.com/)
+- [AngelList](https://angel.co/)
+- [FlexJobs](https://www.flexjobs.com/)
