@@ -1,8 +1,12 @@
 ## Contents
+* [Blogs / Courses / Tutorials](#blogs--courses--tutorials)
 * [Command Line](#command-line)
 * [Opportunities](#opportunities)
 * [Remote Freelance Boards](#remote-freelance-boards)
 * [Remote Jobs](#remote-jobs)
+
+### Blogs / Courses / Tutorials
+* [Getting Started with JavaScript](https://sabe.io/classes/javascript)
 
 ### Command Line
 - [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands/)
