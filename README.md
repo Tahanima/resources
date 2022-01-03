@@ -7,6 +7,7 @@
 
 ### Blogs / Courses / Tutorials
 * [Getting Started with JavaScript](https://sabe.io/classes/javascript)
+* [Interviews.school](https://interviews.school/)
 
 ### Command Line
 - [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands/)
