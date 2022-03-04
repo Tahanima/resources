@@ -1,6 +1,7 @@
 ## Contents
 * [Blogs / Courses / Tutorials](#blogs--courses--tutorials)
 * [Command Line](#command-line)
+* [Dummy APIs](#dummy-apis)
 * [Interview Resources](#interview-resources)
 * [Opportunities](#opportunities)
 * [Remote Freelance Boards](#remote-freelance-boards)
@@ -16,6 +17,10 @@
 - [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands/)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [explainshell.com](https://explainshell.com/)
+
+### Dummy APIs
+- [JSON Placeholder](http://jsonplaceholder.typicode.com/)
+- [Reqres](https://reqres.in/)
 
 ### Interview Resources
 - [FullStack.Cafe](https://www.fullstack.cafe/)
