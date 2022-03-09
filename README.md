@@ -40,3 +40,5 @@
 - [AngelList](https://angel.co/)
 - [FlexJobs](https://www.flexjobs.com/)
 - [Smooth Remote](https://smoothremote.com/)
+- [No Fluff Jobs](https://nofluffjobs.com/jobs)
+- [Career Builder](https://www.careerbuilder.com/)
