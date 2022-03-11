@@ -29,6 +29,7 @@
 - [FullStack.Cafe](https://www.fullstack.cafe/)
 
 ### Miscellaneous
+- [What happens when...](https://github.com/alex/what-happens-when)
 - [roadmap.sh](https://roadmap.sh/)
 
 ### Opportunities
