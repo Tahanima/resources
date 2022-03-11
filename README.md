@@ -15,6 +15,7 @@
 - [Tools for Software Testing](https://testdev.tools/)
 - [Missing Semester](https://www.youtube.com/c/MissingSemester)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Syntax Technologies](https://www.syntaxtechs.com/blog)
 
 ### Command Line
 - [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands/)
