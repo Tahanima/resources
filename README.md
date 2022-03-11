@@ -9,10 +9,12 @@
 * [Remote Jobs](#remote-jobs)
 
 ### Blogs / Courses / Tutorials
-* [Getting Started with JavaScript](https://sabe.io/classes/javascript)
-* [Interviews.school](https://interviews.school/)
-* [Kvanta](https://en.kvanta.xyz/)
-* [Tools for Software Testing](https://testdev.tools/)
+- [Getting Started with JavaScript](https://sabe.io/classes/javascript)
+- [Interviews.school](https://interviews.school/)
+- [Kvanta](https://en.kvanta.xyz/)
+- [Tools for Software Testing](https://testdev.tools/)
+- [Missing Semester](https://www.youtube.com/c/MissingSemester)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ### Command Line
 - [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands/)
@@ -28,7 +30,6 @@
 
 ### Miscellaneous
 - [roadmap.sh](https://roadmap.sh/)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
