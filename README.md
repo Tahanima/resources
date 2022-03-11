@@ -3,6 +3,7 @@
 * [Command Line](#command-line)
 * [Dummy APIs](#dummy-apis)
 * [Interview Resources](#interview-resources)
+* [Miscellaneous](#miscellaneous)
 * [Opportunities](#opportunities)
 * [Remote Freelance Boards](#remote-freelance-boards)
 * [Remote Jobs](#remote-jobs)
@@ -24,6 +25,9 @@
 
 ### Interview Resources
 - [FullStack.Cafe](https://www.fullstack.cafe/)
+
+### Miscellaneous
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
