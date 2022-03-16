@@ -33,6 +33,7 @@
 - [What happens when...](https://github.com/alex/what-happens-when)
 - [roadmap.sh](https://roadmap.sh/)
 - [My Favorite Podcasts](https://www.swyx.io/fave-podcasts)
+- [Resume Templates](https://www.canva.com/resumes/templates/)
 
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
