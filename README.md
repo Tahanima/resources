@@ -40,6 +40,7 @@
 - [Resume Templates](https://www.canva.com/resumes/templates/)
 - [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/system-design)
 - [High Scalability's top posts](http://highscalability.com/all-time-favorites/)
+- [Code Review Developer Guide](https://google.github.io/eng-practices/review/)
 
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
