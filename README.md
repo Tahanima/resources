@@ -34,6 +34,8 @@
 - [roadmap.sh](https://roadmap.sh/)
 - [My Favorite Podcasts](https://www.swyx.io/fave-podcasts)
 - [Resume Templates](https://www.canva.com/resumes/templates/)
+- [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/system-design)
+- [High Scalability's top posts](http://highscalability.com/all-time-favorites/)
 
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
