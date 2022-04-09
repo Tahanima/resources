@@ -33,6 +33,7 @@
 - [Byteboard](https://byteboard.dev/)
 - [Pramp](https://www.pramp.com/#/)
 - [Betterteam - Senior QA Engineer Interview Questions](https://www.betterteam.com/senior-qa-engineer-interview-questions)
+- [A better way to interview QA engineers](https://qxf2.com/a-better-way-to-interview-qa)
 
 ### Miscellaneous
 - [What happens when...](https://github.com/alex/what-happens-when)
