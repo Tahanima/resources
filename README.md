@@ -47,11 +47,9 @@
 ### Opportunities
 - [Public Bug Bounty Program List](https://www.bugcrowd.com/bug-bounty-list/)
 
-### Remote Freelance Boards
+### Remote Jobs
 - [Toptal](https://www.toptal.com/#bring-in-incredible-hackers-now)
 - [Braintrust](https://www.usebraintrust.com/join-engineer?utm_source=talent&utm_medium=community&utm_campaign=dc_ref)
-
-### Remote Jobs
 - [Women Who Code jobs board](https://www.womenwhocode.com/jobs/)
 - [Remote | OK](http://remoteok.io/)
 - [We Work Remotely](http://weworkremotely.com/)
@@ -70,3 +68,4 @@
 - [Tech Talent Charter](https://www.techtalentcharter.co.uk/home)
 - [POCIT](https://www.pocitjobs.com/)
 - [Startup Jobs](https://startup.jobs/)
+- [Remote4me](https://remote4me.com/)
