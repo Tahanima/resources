@@ -5,7 +5,6 @@
 * [Interview Resources](#interview-resources)
 * [Miscellaneous](#miscellaneous)
 * [Opportunities](#opportunities)
-* [Remote Freelance Boards](#remote-freelance-boards)
 * [Remote Jobs](#remote-jobs)
 
 ### Blogs / Courses / Tutorials
